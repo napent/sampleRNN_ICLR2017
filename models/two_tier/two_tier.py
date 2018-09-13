@@ -38,6 +38,7 @@ random.seed(123)
 import theano
 import theano.tensor as T
 import theano.ifelse
+import theano.tensor.nnet.neighbours
 import lasagne
 import scipy.io.wavfile
 
